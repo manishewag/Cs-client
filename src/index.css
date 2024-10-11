@@ -1,0 +1,21 @@
+.d {
+  display: flex;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+/* input[type="text"],input[type="password"],
+input[type="email"],input[type="number"], */
+
+.textarea{
+  height: 140px;
+}
+
+
+.Link {
+  text-decoration-color: black;
+  text-decoration: none;
+}
+
+
+
